@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vodilkins303.github.io/sz-f30/sitemap.xml
